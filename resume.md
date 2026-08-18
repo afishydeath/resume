@@ -1,0 +1,45 @@
+# Samuel Hogan
+---
+= Contact =
+
+| type | contact |
+| --- | --- |
+| email | samueltonyhogan@gmail.com |
+| phone | 0498866563 |
+| github | github.com/afishydeath |\
+
+## My Skills
+### Coding
+I have been coding since I was in Primary School, about 12 years ago. The majority of my learning has been in Python, \
+but due to various projects and university courses, I've also picked up some knowledge of C, C++, Java, JavaScript, SQL, and Bash.
+### Teaching and Communication
+I have experience in teaching coding and robotics concepts to many different skill levels, both through my roles at ConnectEd Code \
+and St Andrews Cathedral School, as well as through general life and university. I get consistent feedback that I am skilled at \
+breaking down complex concepts into understandable Ideas for Primary schoolers, High schoolers, University students, and beyond.
+I also have experience presenting ideas to larger audiences, through my talks at PyconAU.
+### Troubleshooting 
+I have learned many techniques to diagnose and fix issues with technology, through experience such as; tech support for my family, \
+general use of Linux for 6 years, buying and repairing old laptops, and helping the public with phone issues at Optus.
+
+## My Projects
+Some notable projects to show my coding experience, in order of difficulty. All of these can be found on my Github under the listed names.
+- crsa: This is a limited implementation of the RSA cryptosystem that I wrote for my fundamentals of C class. The notable difficulty with \
+this was we were limited to the c99 standard library, and we were not allowed to use the maths library. This meant that I had to implement \
+many complex algorithms from scratch.
+- mal: This is a project where you follow a set of steps to implement from scratch an interpreter for a lisp language. In the process, \
+I learned a lot about python, specifically regarding regex, classes, and python's match statement which I later presented about at PyconAU. \
+this was at the time the hardest project I'd completed, and I learned so much that I ended up restarting from scratch two separate times, \
+because my coding readability and understanding of the base concepts had improved so much through following the project.
+- pgpp2p: This is the hardest project I've done to date. For my Capstone subject at university, we had to write a program that solved a \
+cybersecurity issue, and my group decided on fixing the issue that even with encrypted messengers, there still has to be a lot of trust \
+in one centralised authority, the messaging service. It's not possible to be certain that a messaging provider will keep your messages \
+safe forever, so the solution we came up with was making a peer to peer encrypted messenger. The issue was, that I was the only \
+confident coder in the group. So, from scratch and on my own, I wrote a peer to peer client and a linking server to allow UDP hole \
+punching, i implemented messaging between these clients, and then i implemented encryption using pgp "contacts" with identities and \
+public / private keys, all of this used with a tkinter UI. This took me nearly a week straight of work after the initial planning \
+and design stages, but in the end I'm proud of the result. 
+
+## My Notable Experience
+
+
+## My Relevant Hobbies
