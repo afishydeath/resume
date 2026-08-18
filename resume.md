@@ -39,7 +39,17 @@ punching, i implemented messaging between these clients, and then i implemented 
 public / private keys, all of this used with a tkinter UI. This took me nearly a week straight of work after the initial planning \
 and design stages, but in the end I'm proud of the result. 
 
-## My Notable Experience
+## My Work Experience
+- Optus (01/25 - current): I work in Retail Sales for Optus, where I need to know a lot about current and upcoming phones to sell \
+and assist people in using, as well as follow legal and regulatory requirements in how we identify, gain consent from, and sell to \
+customers.
+- St Andrews Cathedral School (01/23 - 07/24): Technology and Admin Assistant, Robotics Coach 
+
+
+## My Volunteer Experience
 
 
 ## My Relevant Hobbies
+- Laptop Repair: Over the last four years I've slowly been upgrading my everyday use laptop by buying 8-12 year old thinkpad laptops, \
+diagnosing any issues (and there are always issues), replacing any damaged or missing parts, upgrading the storage and RAM if i have \
+compatible parts spare, and then using them for university and other general work until i buy the next one.
