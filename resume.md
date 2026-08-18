@@ -1,6 +1,6 @@
 # Samuel Hogan
 ---
-= Contact =
+#### Contact
 
 | type | contact |
 | --- | --- |
