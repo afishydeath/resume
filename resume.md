@@ -20,6 +20,9 @@ I also have experience presenting ideas to larger audiences, through my talks at
 ### Troubleshooting 
 I have learned many techniques to diagnose and fix issues with technology, through experience such as; tech support for my family, \
 general use of Linux for 6 years, buying and repairing old laptops, and helping the public with phone issues at Optus.
+### Networking
+Thanks to a CCNA course, multiple courses at uni as well as practical experience in my household, I have significant experience \
+designing and managing small networks, and training in how to manage enterprise networks 
 
 ## My Projects
 Some notable projects to show my coding experience, in order of difficulty. All of these can be found on my Github under the listed names.
@@ -43,10 +46,21 @@ and design stages, but in the end I'm proud of the result.
 - Optus (01/25 - current): I work in Retail Sales for Optus, where I need to know a lot about current and upcoming phones to sell \
 and assist people in using, as well as follow legal and regulatory requirements in how we identify, gain consent from, and sell to \
 customers.
-- St Andrews Cathedral School (01/23 - 07/24): Technology and Admin Assistant, Robotics Coach 
+- St Andrews Cathedral School (01/23 - 07/24): At St Andrews, I was a Technology and Admin Assistant, and a Robotics Coach. This \
+included working in the workshop helping teachers, helping prepare for lessons, writing coding problems for students, as well as \
+teaching the kids how to make and control Lego Mindstorms robots.
+- ConnectEd Code (intermittent): With ConnectEd Code, I was a tutor for a few weekend workshops teaching kids in years 7-9 about python \
+through in depth workshops with a variety of themes to get the kids interested. This included general coaching and diagnostics, as well as \
+explaining what the intended outcomes were, and how to achieve them.
 
 
 ## My Volunteer Experience
+- Next Day Video: I have worked as a volunteer with Next Day Video at PyconAU four times, and once at PurpleCon doing AV work such as live \
+video mixing, and filming. 
+- VET Work Experience: For a VET course, I completed one week of Work Experience at St Andrew's Cathedral School in the IT department, where \
+I was tasked with working with and managing enterprise managed windows devices, as well as small amounts of network management
+- Year 10 Work experience
+- Scouting
 
 
 ## My Relevant Hobbies
