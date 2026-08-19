@@ -6,7 +6,7 @@
 | --- | --- |
 | email | samueltonyhogan@gmail.com |
 | phone | 0498866563 |
-| github | github.com/afishydeath |\
+| github | [github.com/afishydeath] |\
 
 ## My Skills
 ### Coding
