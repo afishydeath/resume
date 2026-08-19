@@ -71,3 +71,8 @@ at an event called "Dragonskin". This last year my team got an award for creatin
 - Laptop Repair: Over the last four years I've slowly been upgrading my everyday use laptop by buying 8-12 year old thinkpad laptops, 
 diagnosing any issues (and there are always issues), replacing any damaged or missing parts, upgrading the storage and RAM if I have 
 compatible parts spare, and then using them for university and other general work until I buy the next one.
+
+## Certifications
+- Cert 3: Information and Digital Technology, completed.
+- Bachelor's: Information Technology, Majoring in Cybersecurity
+- Cisco Certified Networking Associate (Course complete, Exam yet to be done)
