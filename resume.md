@@ -1,5 +1,5 @@
 # Samuel Hogan
-#### Contact
+#### Contacts
 
 | type | contact |
 | --- | --- |
