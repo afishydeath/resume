@@ -1,3 +1,9 @@
+---
+title: "Samuel Hogan Resume"
+author: Sam Hogan
+date: 2026-08-09
+font: noto sans
+---
 # Samuel Hogan
 #### Contacts
 
@@ -5,7 +11,7 @@
 | --- | --- |
 | email | samueltonyhogan@gmail.com |
 | phone | 0498866563 |
-| github | <https://github.com/afishydeath> |
+| GitHub | <https://github.com/afishydeath> |
 
 
 ## My Skills
@@ -24,10 +30,18 @@ general use of Linux for 6 years, buying and repairing old laptops, and helping 
 Thanks to a CCNA course, multiple courses at uni as well as practical experience in my household, I have significant experience 
 designing and managing small networks, and training in how to manage enterprise networks 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## My Projects
-Some notable projects to show my coding experience, in order of difficulty. All of these can be found on my Github under the listed names.
-- crsa: This is a limited implementation of the RSA cryptosystem that I wrote for my fundamentals of C class. The notable difficulty with
+Some notable projects to show my coding experience, in order of difficulty. All of these can be found on my GitHub under the listed names.
+
+- crsa: This is a limited implementation of the RSA crypto system that I wrote for my fundamentals of C class. The notable difficulty with
 this was we were limited to the c99 standard library, and we were not allowed to use the maths library. This meant that I had to implement 
 many complex algorithms from scratch.
 - mal: This is a project where you follow a set of steps to implement from scratch an interpreter for a lisp language. In the process, 
@@ -63,8 +77,8 @@ video mixing, and filming.
 I was tasked with working with and managing enterprise managed windows devices, as well as small amounts of network management
 - Year 10 Work experience: For the mandatory year 10 work experience, I was able to work at Google for a week, where I worked on the 
 "your browser is too old" page for the yearly "Santa Tracker" that they do.
-- Scouting: I have been a Scout since a very young age, ad a part of which I help to organise an activity for younger scouts once a year
-at an event called "Dragonskin". This last year my team got an award for creating the best activity from our region.
+- Scouting: I have been a Scout since a very young age, as a part of which I help to organise an activity for younger scouts once a year
+at an event called "Dragonskin". For the last two years my team had got an award for creating the best activity from our region.
 
 
 ## My Relevant Hobbies
