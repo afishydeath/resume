@@ -52,7 +52,7 @@ explaining what the intended outcomes were, and how to achieve them.
 
 
 ## My Volunteer Experience
-- Next Day Video: I have worked as a volunteer with Next Day Video at PyconAU four times, and once at PurpleCon doing AV work such as live 
+- Next Day Video: I have worked as a volunteer with Next Day Video at PyconAU five times, and once at PurpleCon doing AV work such as live 
 video mixing, and filming. 
 - VET Work Experience: For a VET course, I completed one week of Work Experience at St Andrew's Cathedral School in the IT department, where 
 I was tasked with working with and managing enterprise managed windows devices, as well as small amounts of network management
